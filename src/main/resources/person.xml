@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <email>32@mail.ru</email>
+        <firstName>12312</firstName>
+        <id>efe40f9c-9eb2-4fb7-95fc-67ac348a3ddb</id>
+        <organization>111</organization>
+        <tableNumber>1111</tableNumber>
+    </person>
+    <person>
+        <email>312@mail.ru</email>
+        <firstName>12312</firstName>
+        <id>51cee242-66bf-42bc-9770-9790349c221d</id>
+        <organization>111</organization>
+        <tableNumber>1111</tableNumber>
+    </person>
+    <person>
+        <email>3122@mail.ru</email>
+        <firstName>12312</firstName>
+        <id>61b8b453-ce22-4959-b480-5fd330106bd7</id>
+        <organization>111</organization>
+        <tableNumber>1111</tableNumber>
+    </person>
+</persons>
